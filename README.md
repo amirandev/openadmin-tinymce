@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Perfect! Since you’re now using **TinyMCE**, here’s a fully polished **README.md** tailored specifically for your TinyMCE Open-Admin package. You can copy-paste it directly:
 
 ---
@@ -108,3 +109,6 @@ This package is licensed under the [MIT License](LICENSE).
 If you want, I can also **add a short “Media Manager Integration” section** showing how to use your custom file/image buttons inside TinyMCE, so your README fully documents all features.
 
 Do you want me to add that?
+=======
+# openadmin-tinymce
+>>>>>>> c85364e96523b59ecbbfedb4e45599ba349a91a5
